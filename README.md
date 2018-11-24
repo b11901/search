@@ -7,9 +7,9 @@ CLI that lets you search for meanings of word from Google.
 
 The way I use:
 
-.bashrc
+*.bashrc*
 
-alias search="python <Path to the directory>/search.py "
+alias search="python < Path to the directory >/search.py "
 
 after that we can just type:
 
